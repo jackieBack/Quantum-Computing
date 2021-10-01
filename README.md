@@ -1,2 +1,2 @@
-# QuantumComputing6995_Spring2020
-Code for "Quantum Computing: Theory and Practice" offered by Columbia University
+# Quantum Computing
+Code for quantum computing related code that I have made over time.
